@@ -46,3 +46,7 @@ HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABI
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
+NOTE from salesforce.com: This tool depends on separately distributed software which may be subject
+to different license terms and be copyrighted by authors other than salesforce.com. Please review
+the list of dependencies and make sure these license terms are acceptable before downloading this
+tool.
